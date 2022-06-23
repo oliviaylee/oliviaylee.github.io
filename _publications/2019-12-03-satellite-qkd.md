@@ -1,7 +1,7 @@
 ---
 title: "An updated analysis of satellite quantum-key distribution missions"
-collection: research
-permalink: /research/2019-12-03-satellite-qkd
+collection: publications
+permalink: /publication/2019-12-03-satellite-qkd
 excerpt: 'Olivia Y. Lee, Tom Vergoossen'
 date: 2019-12-03
 paperurl: 'https://arxiv.org/pdf/1909.13061.pdf'
