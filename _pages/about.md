@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Olivia, and I am a third-year undergraduate student at Stanford University (Class of 2024), pursuing a B.S. in [Symbolic Systems](https://symsys.stanford.edu/) with a minor in Mathematics and an M.S. in Computer Science.
+Hello! I am a third-year undergraduate student at Stanford University (Class of 2024), pursuing a B.S. in [Symbolic Systems](https://symsys.stanford.edu/) with a minor in Mathematics and an M.S. in Computer Science.
 
-My research interests span reinforcement learning, robotics, and interactive learning. Broadly, I am interested in better understanding human cognitive processes and engineering computational analogs of these processes in AI systems. 
+My research interests span reinforcement learning, robotics, and interactive learning. Broadly, I aim to better understanding human cognitive processes and engineering computational analogs of these processes in AI systems. Some cognitive processes that I hope to explore through a computational lens are multimodal perception, interactive learning, and curiosity.
 
 I conduct research with Stanford's [IRIS Lab](https://irislab.stanford.edu/) which studies intelligence through robotic interaction at scale, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/) and [Stanford Statistical Machine Learning Group](http://ml.stanford.edu/index.html). I am fortunate to be mentored by Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) and [Suraj Nair](https://cs.stanford.edu/~surajn/).
 
