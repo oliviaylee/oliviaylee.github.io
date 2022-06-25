@@ -47,7 +47,7 @@ Philosophy Papers
   I argue that modern large language models (LLMs) cannot achieve strong intelligence. LLMs do not learn quickly and flexibly, 
   nor do they employ heuristics for inference-making in a manner that an intelligent system would. Furthermore, LLMs have 
   limited capacity for understanding beyond symbol manipulation, and are purely reactional systems that lack intentionality.</sub>
-  <sub style="font-size:9px">*Topics: Natural Language Processing, Artificial Intelligence, Intentionality*</sub>
+  <sub style="font-size:9px">*Topics: Natural Language Processing, Artificial Intelligence, Natural Language Understanding, Intentionality*</sub>
 
 Technical Reports
 ======
