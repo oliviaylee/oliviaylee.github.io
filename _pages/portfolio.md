@@ -69,8 +69,7 @@ Technical Reports
 Commentaries
 ======
 <span style="color:#52ADC8">**When Worlds Collide: Challenges and Opportunities in Virtual Reality**</span> [\[paper\]](/files/2021-fall-history44q-paper.pdf){:target="_blank"} [\[publication\]](https://ojs.stanford.edu/ojs/index.php/sjfgss/article/view/2109) <br>
-  <sub>*Final paper for Stanford's HISTORY 44Q: Gendered Innovations in Science, Medicine, Engineering, and Environment (Fall 2021)*<br>
-  *Published in peer-reviewed journal, Embodied: The Stanford Undergraduate Journal of Feminist, Gender, and Sexuality Studies.*<br>
+  <sub>*Final paper for Stanford's HISTORY 44Q: Gendered Innovations in Science, Medicine, Engineering, and Environment (Fall 2021). Published in peer-reviewed journal, Embodied: The Stanford Undergraduate Journal of Feminist, Gender, and Sexuality Studies*<br>
   I explore virtual reality (VR) software applications that contain discriminatory content and promote harassment behaviors towards historically underrepresented communities, and
   identify innovation processes to reframe VR applications so that they promote gender and social equality. I also explore design choices in VR hardware that tend to exclude females. 
   To address this, I propose a better sex balance in research participants is needed to rethink reference models for VR hardware, leading to more sex-sensitive VR headsets.<br>
