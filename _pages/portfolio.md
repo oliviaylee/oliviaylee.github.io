@@ -31,7 +31,7 @@ Computational Projects
   Our team trained an automatic speech recognition engine contextualized to Singaporean accents and terminology, which we incorporated into a mobile app 
   to help consumers navigate local supermarkets with verbal queries. During testing, we combined the mobile app with bluetooth low-energy sensors in a 
   lattice formation in the store to identify the user's position relative to the intended item, then generating and displaying the shortest path.</sub>
-  <sub style="font-size:9px">*Topics: Natural Language Processing, Recommendation Systems, Machine Learning, Indoor Geolocation, Bluetooth Geolocation Sensor Systems*</sub>
+  <sub style="font-size:9px">*Topics: Natural Language Processing, Recommendation Systems, Machine Learning, Indoor Geolocation, Bluetooth Sensor Systems*</sub>
 
 Philosophy Papers
 ======
