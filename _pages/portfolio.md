@@ -17,18 +17,18 @@ Computational Projects
 ======
 <span style="color:#52ADC8">**A Shot in the Dark: Modeling Improved Zero-Shot and Few-Shot Transfer Learning with Self-Supervised Models for Sentiment Classification**</span> [\[paper\]](/files/2022-spr-cs229-paper.pdf){:target="_blank"} [\[poster\]](/files/2022-spr-cs229-poster.pdf){:target="_blank"} <br>
    <sub> *Final report and poster for Stanford's CS229: Machine Learning (Spring 2022)*<br>
-    Our team modeled transfer learning with self-supervised embeddings and supervised models at various scales to optimize model performance on sentiment classification tasks compared to DistilBERT.</sub> <br>
+    We modeled transfer learning with self-supervised embeddings and supervised models at various scales to optimize model performance on sentiment classification tasks compared to DistilBERT.</sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Self-Supervised Learning, Transfer Learning*</sub>
    
 <span style="color:#52ADC8">**Model Predictive Curiosity**</span> [\[paper\]](/files/2022-spr-psych240a-paper.pdf){:target="_blank"} [\[poster\]](/files/2022-spr-psych240a-poster.pdf){:target="_blank"} <br>
   <sub>*Final report and poster for Stanford's PSYCH 240A: Curiosity in Artificial Intelligence (Spring 2022)*<br>
-  Our team proposed Model Predictive Curiosity (MPCu), a framework that backpropagates on curiosity values predicted by a forward dynamics model to select curiosity-maximizing actions.
+  We proposed Model Predictive Curiosity (MPCu), a framework that backpropagates on curiosity values predicted by a forward dynamics model to select curiosity-maximizing actions.
   We demonstrated the capability of MPCu to optimize for high-curiosity action values and enrich multi-object interactions in Box2D environment.</sub> <br>
   <sub style="font-size:11px">*Topics: Curiosity-Based Models, Model-Based Reinforcement Learning, Representation Learning, Self-Supervised Learning*</sub>
 
 <span style="color:#52ADC8">**Machine Learning-based platform using iBeacon Sensors for Product Location and Indoor Navigation to Improve Consumer Retail Experience**</span><br>
   <sub>*High school research engineering project (2018-2019)*<br>
-  Our team trained an automatic speech recognition engine contextualized to Singaporean accents and terminology, which we incorporated into a mobile app 
+  We trained an automatic speech recognition engine contextualized to Singaporean accents and terminology, which we incorporated into a mobile app 
   to help consumers navigate local supermarkets with verbal queries. During testing, we combined the mobile app with bluetooth low-energy sensors in a 
   lattice formation in the store to identify the user's position relative to the intended item, then generating and displaying the shortest path.</sub> <br>
   <sub style="font-size:11px">*Topics: Natural Language Processing, Recommendation Systems, Machine Learning, Indoor Geolocation, Bluetooth Sensor Systems*</sub>
@@ -51,13 +51,6 @@ Philosophy Papers
 
 Technical Reports
 ======
-<span style="color:#52ADC8">**Implications of the Comprehensive AI Services Framework on AI Safety Research**</span> [\[paper\]](/files/2021-win-seri-paper.pdf){:target="_blank"} <br>
-  <sub>*Final report for Stanford Existential Risk Initiative's AI research program (Winter 2021)*<br>
-  I argue that developing powerful AI systems in line with the Comprehensive AI Systems (CAIS) framework outlined in
-  Eric K. Drexler's [*Reframing Superintelligence* (2019)](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf){:target="_blank"} is not just likely but should be encouraged, due to the potential 
-  for enhanced safety measures to mitigate AI existential risk.</sub> <br>
-  <sub style="font-size:11px">*Topics: AI Safety, Hierarchical Reinforcement Learning, AI Existential Risk*</sub>
-
 <span style="color:#52ADC8">**A Proposal for Building Safety Benchmarking Services in CAIS systems**</span> [\[paper\]](/files/2021-spr-seri-paper.pdf){:target="_blank"} <br>
   <sub>*Final report for Stanford Existential Risk Initiative's AI research program (Spring 2021)*<br>
   I propose a protocol encompassing safety benchmarking services for CAIS systems, ranging from pre-deployment safety
@@ -65,6 +58,18 @@ Technical Reports
   and performance when subject to adversarial policies) to post-deployment safety benchmarks that are applied during
   model application (monitoring systems and trip wires to ensure agent behavior is within safety standards and expectations).</sub> <br>
   <sub style="font-size:11px">*Topics: AI Safety, Benchmarking Tools, AI Existential Risk*</sub>
+
+<span style="color:#52ADC8">**Implications of the Comprehensive AI Services Framework on AI Safety Research**</span> [\[paper\]](/files/2021-win-seri-paper.pdf){:target="_blank"} <br>
+  <sub>*Final report for Stanford Existential Risk Initiative's AI research program (Winter 2021)*<br>
+  I argue that developing powerful AI systems in line with the Comprehensive AI Systems (CAIS) framework outlined in
+  Eric K. Drexler's [*Reframing Superintelligence* (2019)](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf){:target="_blank"} is not just likely but should be encouraged, due to the potential 
+  for enhanced safety measures to mitigate AI existential risk.</sub> <br>
+  <sub style="font-size:11px">*Topics: AI Safety, Hierarchical Reinforcement Learning, AI Existential Risk*</sub>
+
+<span style="color:#52ADC8">**Autonomous Vehicles: From Vision to Reality**</span> [\[paper\]](/files/2020-fall-cs56n-paper.pdf){:target="_blank"} <br>
+  <sub>*Final paper for Stanford's CS 56N: Great Discoveries and Inventions in Computing, taught by Prof. John Hennessey (Fall 2020)*<br>
+  We provide a high-level overview of current developments in the field of autonomous driving, amd look into the technological hurdles that lie ahead in enhancing the security of autonomous systems and implementation of the system at scale. We analyze challenges in consumer safety and securing autonomous systems against unwanted exploitation from a technical perspective, with additional commentary on the ethical and policy implications of these devlopments, to make projections about the future of autonomous vehicles.</sub> <br>
+  <sub style="font-size:11px">*Topics: Autononous Driving, Computer Vision, LiDAR/RADAR Sensor Systems, AI Safety*</sub>
 
 Commentaries
 ======
