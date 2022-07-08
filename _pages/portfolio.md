@@ -28,7 +28,7 @@ Computational Projects
 
 <span style="color:#52ADC8">**Machine Learning-based platform using iBeacon Sensors for Product Location and Indoor Navigation to Improve Consumer Retail Experience**</span><br>
   <sub>*High school research engineering project (2018-2019)*<br>
-  We trained an automatic speech recognition engine contextualized to Singaporean accents and terminology, which we incorporated into a mobile app to help consumers navigate local supermarkets with verbal queries. During testing, we combined the mobile app with a lattice formation of bluetooth low-energy sensors in a local convenience store, which identified the user's position relative to the intended item, then generated and displayed the shortest path.</sub> <br>
+  We trained an automatic speech recognition engine contextualized to Singaporean accents and terminology, which we incorporated into a mobile app to help consumers navigate local supermarkets with verbal queries. During testing, we combined the mobile app with a lattice formation of bluetooth low-energy sensors in a convenience store, which identified the user's position relative to the intended item, then generated and displayed the shortest path.</sub> <br>
   <sub style="font-size:11px">*Topics: Natural Language Processing, Recommendation Systems, Machine Learning, Indoor Geolocation, Bluetooth Sensor Systems*</sub>
 
 Philosophy Papers
