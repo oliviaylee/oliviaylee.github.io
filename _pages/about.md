@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year undergraduate student at Stanford University (Class of 2024), pursuing a B.S. in [Symbolic Systems](https://symsys.stanford.edu/) with a minor in Mathematics and a coterminal M.S. in Computer Science.
+Hello! I am a third-year undergraduate student at Stanford University (Class of 2024), pursuing a B.S. in [Symbolic Systems](https://symsys.stanford.edu/) with a minor in Mathematics and an intended coterminal M.S. in Computer Science.
 
 My research interests span reinforcement learning, robotics, and interactive learning. Through my current coursework and research, I aim to better understand human cognitive processes and engineer computational analogs of these processes in AI systems. Some areas of human cognition that I hope to explore through a computational lens are multimodal perception, interactive learning, and curiosity. 
 
