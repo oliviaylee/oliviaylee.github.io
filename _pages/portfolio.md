@@ -17,7 +17,7 @@ Computational Projects
 ======
 <span style="color:#52ADC8">**Today Years Old: Adapting Language Models to Word Shifts**</span> [\[paper\]](/files/2023-win-cs224n-paper.pdf){:target="_blank"} [\[poster\]](/files/2023-win-cs224n-poster.pdf){:target="_blank"} [\[code\]](https://www.github.com/oliviaylee/today-years-old){:target="_blank"} <br>
    <sub> *Final report, poster, and code for Stanford's CS 224N: Natural Language Processing with Deep Learning (Winter 2023)*<br>
-    We modeled transfer learning with self-supervised embeddings and supervised models at various scales to optimize model performance on sentiment classification tasks compared to DistilBERT.</sub> <br>
+    I finetuned GPT-2 and RoBERTa to predict word embeddings for novel lexical items given their definitions. The model was finetuned via supervised learning on word embeddings for lexical items in a regular dictionary, using embeddings from the pretrained models off-the-shelf as ground-truth embeddings. The resultant model as used to predict word embeddings for Urban Dictionary words given their definitions. </sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Supervised Learning, Domain Adaptation*</sub>
 
 <span style="color:#52ADC8">**A Shot in the Dark: Modeling Improved Zero-Shot and Few-Shot Transfer Learning with Self-Supervised Models for Sentiment Classification**</span> [\[paper\]](/files/2022-spr-cs229-paper.pdf){:target="_blank"} [\[poster\]](/files/2022-spr-cs229-poster.pdf){:target="_blank"} <br>
@@ -89,12 +89,12 @@ Technical Reports
 Commentaries
 ======
 <span style="color:#52ADC8">**The Future of Human-Machine Interaction: Keeping Humans in the Loop**</span> [\[paper\]](/files/2022-fall-ospoxfrd29-paper.pdf){:target="_blank"} <br>
-  <sub>*Final paper for Stanford's OSPOXFRD 29: AI & Society (Fall 2022).* <br>
+  <sub>*Final paper for Stanford's OSPOXFRD 29: Artificial Intelligence & Society (Fall 2022)* <br>
   The doomsday ending that humans will be demolished in the fierce intelligence competition with AI systems, while remarkably enduring, is a narrow view that distracts us from active measures that can be taken in the present day. I assert that a key tenet of AI development going forward should be keeping humans in the loop. Distinguishing between non-immediate decision making (e.g., data analytics and robotics) and time-sensitive, safety-critical decision making (e.g., autonomous vehicles and aircraft) is key to understanding how to best facilitate human-AI collaboration in each case. I also evaluate three technical research areas that facilitate human-in-the-loop AI development and deployment.</sub> <br>
   <sub style="font-size:11px">*Topics: Human-AI Interaction, AI Safety, Human-In-The-Loop Development, Decision-Making*</sub>
 
 <span style="color:#52ADC8">**When Worlds Collide: Challenges and Opportunities in Virtual Reality**</span> [\[paper\]](/files/2021-fall-history44q-paper.pdf){:target="_blank"} [\[publication\]](https://ojs.stanford.edu/ojs/index.php/sjfgss/article/view/2109){:target="_blank"} <br>
-  <sub>*Final paper for Stanford's HISTORY 44Q: Gendered Innovations in Science, Medicine, Engineering, and Environment (Fall 2021).<br>
+  <sub>*Final paper for Stanford's HISTORY 44Q: Gendered Innovations in Science, Medicine, Engineering, and Environment (Fall 2021)<br>
   Published in peer-reviewed journal, Embodied: The Stanford Undergraduate Journal of Feminist, Gender, and Sexuality Studies*<br>
   I explore virtual reality (VR) software applications that contain discriminatory content and promote harassment behaviors towards historically underrepresented communities, and
   identify innovation processes to reframe VR applications so that they promote gender and social equality. I also explore design choices in VR hardware that tend to exclude females. 
