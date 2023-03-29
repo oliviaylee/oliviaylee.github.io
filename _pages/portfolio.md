@@ -16,7 +16,7 @@ An assortment of works that summarize my academic interests.
 Computational Projects
 ======
 <span style="color:#52ADC8">**Today Years Old: Adapting Language Models to Word Shifts**</span> [\[paper\]](/files/2023-win-cs224n-paper.pdf){:target="_blank"} [\[poster\]](/files/2023-win-cs224n-poster.pdf){:target="_blank"} [\[code\]](https://www.github.com/oliviaylee/today-years-old){:target="_blank"} <br>
-   <sub> *Final report, poster, and code for Stanford's CS 224N: Natural Language Processing with Deep Learning (Winter 2023) *<br>
+   <sub> *Final report, poster, and code for Stanford's CS 224N: Natural Language Processing with Deep Learning (Winter 2023)*<br>
     We modeled transfer learning with self-supervised embeddings and supervised models at various scales to optimize model performance on sentiment classification tasks compared to DistilBERT.</sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Supervised Learning, Domain Adaptation*</sub>
 
@@ -40,7 +40,7 @@ Philosophy Papers
 ======
 <span style="color:#52ADC8">**Philosophy of Mind: Wittgenstein, The Unconscious Mind, and Self-Knowledge**</span> [\[paper\]](/files/2022-fall-oxfordphil-essays.pdf){:target="_blank"} <br>
   <sub>*Collection of essays for OSPOXFRD 199: Philosophy of Mind (Fall 2022)*<br>
-  A compilation of four essays written for my Directed Reading in Philosophy of Mind, at the University of Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. The essay titles and topics are as follows: <br>
+  A compilation of essays written for my Directed Reading in Philosophy of Mind, during my quarter abroad at the University of Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. The four essay titles and topics are as follows: <br>
   Essay 1: Might your new philosophy tutor be a non-conscious ‘zombie’ for all you know? (Topic: Other Minds) <br>
   Essay 2: Might you see red where I see blue? (Topic: The Privacy of Experience) <br> 
   Essay 3: What is it to make the unconscious conscious? (Topic: The Unconscious Mind) <br> 
@@ -59,9 +59,9 @@ Philosophy Papers
   <sub>*Final paper for Stanford's SYMSYS 207: Conceptual Issues in Cognitive Neuroscience (Fall 2021)*<br>
   I argue that modern large language models (LLMs) cannot achieve strong intelligence. LLMs do not learn quickly and flexibly, 
   nor do they employ heuristics for inference-making in a manner that an intelligent system would. Furthermore, LLMs have 
-  limited capacity for understanding beyond symbol manipulation, and are purely reactional systems that lack intentionality. <br> 
+  limited capacity for understanding beyond symbol manipulation, and are purely reactional systems that lack intentionality.
   </sub> <br>
-  <sub style="font-size:11px">Author's Note (March 2023): This paper was written before the release of ChatGPT and GPT-4 (or GPT-x, depending on how far in the future you're reading this), and on hindsight, I acknowledge this paper perhaps does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my general stance towards (purely language-based) LLMs are still largely aligned with this paper, and another more recent work that articulates views I am sympathetic to is [\[Shanahan (2022)\]](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding upon LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub>
+  <sub style="font-size:11px">Author's Note (March 2023): This paper was written before the release of ChatGPT and GPT-4 (or GPT-x, depending on how far in the future you're reading this), and in hindsight, I acknowledge this paper perhaps does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my general stance towards (purely language-based) LLMs are still largely aligned with this paper, and another more recent work that articulates views I am sympathetic to is [Shanahan (2022)](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding upon LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub> <br>
   <sub style="font-size:11px">*Topics: Natural Language Processing, Artificial Intelligence, Natural Language Understanding, Intentionality*</sub>
 
 Technical Reports
@@ -89,8 +89,8 @@ Technical Reports
 Commentaries
 ======
 <span style="color:#52ADC8">**The Future of Human-Machine Interaction: Keeping Humans in the Loop**</span> [\[paper\]](/files/2022-fall-ospoxfrd29-paper.pdf){:target="_blank"} <br>
-  <sub>*Final paper for Stanford's OSPOXFORD 29: AI & Society (Fall 2022).* <br>
-  The doomsday ending that humans will be demolished in the fierce intelligence competition with AI systems, while remarkably enduring, is a narrow view that distracts us from active measures that can be taken in the present day. I assert that a key tenet of AI development going forward should be keeping humans in the loop. Distinguishing between non-immediate decision making (e.g., data analytics and robotics) and time-sensitive, safety-critical decision making (e.g., autonomous vehicles and aircraft) is key to understanding how to best facilitate human-AI collaboration in each case. I also evaluate three technical research areas that facilitate humans-in-the-loop AI development and deployment.</sub> <br>
+  <sub>*Final paper for Stanford's OSPOXFRD 29: AI & Society (Fall 2022).* <br>
+  The doomsday ending that humans will be demolished in the fierce intelligence competition with AI systems, while remarkably enduring, is a narrow view that distracts us from active measures that can be taken in the present day. I assert that a key tenet of AI development going forward should be keeping humans in the loop. Distinguishing between non-immediate decision making (e.g., data analytics and robotics) and time-sensitive, safety-critical decision making (e.g., autonomous vehicles and aircraft) is key to understanding how to best facilitate human-AI collaboration in each case. I also evaluate three technical research areas that facilitate human-in-the-loop AI development and deployment.</sub> <br>
   <sub style="font-size:11px">*Topics: Human-AI Interaction, AI Safety, Human-In-The-Loop Development, Decision-Making*</sub>
 
 <span style="color:#52ADC8">**When Worlds Collide: Challenges and Opportunities in Virtual Reality**</span> [\[paper\]](/files/2021-fall-history44q-paper.pdf){:target="_blank"} [\[publication\]](https://ojs.stanford.edu/ojs/index.php/sjfgss/article/view/2109){:target="_blank"} <br>
