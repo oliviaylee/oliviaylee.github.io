@@ -38,6 +38,11 @@ Computational Projects
 
 Philosophy Papers
 ======
+<span style="color:#52ADC8">**Consciousness, Phenomenality, and the Representational Layer**</span> [\[paper\]](/files/2023-win-symsys202-paper.pdf){:target="_blank"} <br>
+  <sub>*Final paper for Stanford's SYMSYS 202: Theories of Consciousness (Winter 2023)*<br>
+  I propose that metacognition on top of the representational layer, beyond mere possession of representational states, is critical for consciousness. I also distinguish between lower-level sensory states used only as intermediates in perceptual processing (e.g., edge detection, shape from shading), and higher-level sensory states (outputs of perceptual processing), and explore the introduction of phenomenality in this process. I finally discuss the implications of the above proposals for the functional and evolutionary roles of consciousness.</sub> <br>
+  <sub style="font-size:11px">*Topics: Consciousness, Representationalism, Phenomenality, Higher-Order Thought Theory, Global Workspace Theory*</sub>
+
 <span style="color:#52ADC8">**Philosophy of Mind: Wittgenstein, The Unconscious Mind, and Self-Knowledge**</span> [\[paper\]](/files/2022-fall-oxfordphil-essays.pdf){:target="_blank"} <br>
   <sub>*Collection of essays for OSPOXFRD 199: Philosophy of Mind (Fall 2022)*<br>
   A compilation of essays written for my Directed Reading in Philosophy of Mind, during my quarter abroad at the University of Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. The four essay titles and topics are as follows: <br>
