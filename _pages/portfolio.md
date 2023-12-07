@@ -13,6 +13,16 @@ An assortment of works that summarize my academic interests.
   {% include archive-single.html %}
 {% endfor %} -->
 
+Teaching
+======
+<span style="color:#52ADC8">**Winter 2024: CS 224N (Natural Language Processsing with Deep Learning) Graduate Course Assistant**</span> <br>
+   <sub> *Taught by Prof. Tatsunori Hashimoto and Prof. Diyi Yang*</sub> <br>
+    <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Deep Learning*</sub>
+
+<span style="color:#52ADC8">**Fall 2023: CS 157 (Computational Logic) Graduate Course Assistant**</span> <br>
+   <sub> *Taught by Prof. Michael Genesereth*</sub> <br>
+   <sub style="font-size:11px">*Topics: Propositional Logic, Relational Logic, Functional Logic*</sub>
+
 Computational Projects
 ======
 <span style="color:#52ADC8">**Today Years Old: Adapting Language Models to Word Shifts**</span> [\[paper\]](/files/2023-win-cs224n-paper.pdf){:target="_blank"} [\[poster\]](/files/2023-win-cs224n-poster.pdf){:target="_blank"} [\[code\]](https://www.github.com/oliviaylee/today-years-old){:target="_blank"} <br>
