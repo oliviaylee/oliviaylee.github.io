@@ -48,6 +48,11 @@ Computational Projects
 
 Philosophy Papers
 ======
+<span style="color:#52ADC8">**The Missing Piece: Dispelling the Mystery of Introspective Illusion**</span> [\[paper\]](/files/2023-spr-phil186-paper.pdf){:target="_blank"} <br>
+  <sub>*Final paper for Stanford's PHIL 186: Philosophy of Mind (Spring 2023)*<br>
+  I address the question of why illusionism, the view that phenomenal characteristics of mental states are illusory, is so hard to stomach. Beyond explaining how the illusion of phenomenality arises, a robust theory of illusionism must adequately explain the incredible strength of the illusion and the difficulty of freeing oneself from the grip of this enduring intuition. Frankish (2016) attempts to address the former but not the latter, and I argue that explaining the potency of phenomenal illusions is the crucial missing piece for a sound illusionist theory. I present two main desiderata for a positive theory of illusionism by drawing connections to related theories of consciousness, namely global workspace theory (Dennett, 2001) and Buddhist philosophy. </sub> <br>
+  <sub style="font-size:11px">*Topics: Consciousness, Illusionism, Higher-Order Thought Theory, Wittgenstein*</sub> 
+
 <span style="color:#52ADC8">**Consciousness, Phenomenality, and the Representational Layer**</span> [\[paper\]](/files/2023-win-symsys202-paper.pdf){:target="_blank"} <br>
   <sub>*Final paper for Stanford's SYMSYS 202: Theories of Consciousness (Winter 2023)*<br>
   I propose that metacognition on top of the representational layer, beyond mere possession of representational states, is critical for consciousness. I also distinguish between lower-level sensory states used only as intermediates in perceptual processing (e.g., edge detection, shape from shading), and higher-level sensory states (outputs of perceptual processing), and explore the introduction of phenomenality in this process. I finally discuss the implications of the above proposals for the functional and evolutionary roles of consciousness.</sub> <br>
