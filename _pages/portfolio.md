@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-An assortment of works that summarize my academic interests. 
+A bit more about my personal background: I am a U.S. citizen who grew up and was educated in Singapore. Besides research, I worked as a software engineer at Salesforce and at several startups, ranging from deep tech (quantum computing) to B2C companies based in Southeast Asia and the United States. I also studied abroad at the University of Oxford (Magdalen College) in Fall 2022, where I studied graph representation learning and philosophy of mind, and tried my hand at rowing! I also enjoy playing tennis, hiking, reading (+ occasionally writing) science fiction, and brush calligraphy.
+
+Below is an assortment of works that summarize my academic interests. 
 
 <!-- {% for post in site.portfolio %}
   {% include archive-single.html %}
@@ -15,8 +17,8 @@ An assortment of works that summarize my academic interests.
 
 Teaching
 ======
-<span style="color:#52ADC8">**Winter 2024: CS 224N (Natural Language Processsing with Deep Learning) Graduate Course Assistant**</span> <br>
-   <sub> *Taught by Prof. Tatsunori Hashimoto and Prof. Diyi Yang*</sub> <br>
+<span style="color:#52ADC8">**Winter & Spring 2024: CS 224N (Natural Language Processsing with Deep Learning) Graduate Course Assistant**</span> <br>
+   <sub> *Taught by Prof. Tatsunori Hashimoto / Prof. Diyi Yang (Winter 2024) and Prof. Christopher Manning (Spring 2024) *</sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Deep Learning*</sub>
 
 <span style="color:#52ADC8">**Fall 2023: CS 157 (Computational Logic) Graduate Course Assistant**</span> <br>
@@ -83,6 +85,24 @@ Philosophy Papers
   </sub> <br>
   <sub style="font-size:11px">Author's Note (March 2023): This paper was written before the release of ChatGPT and GPT-4 (or GPT-x, depending on how far in the future you're reading this), and in hindsight, I acknowledge this paper perhaps does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my general stance towards (purely language-based) LLMs are still largely aligned with this paper, and another more recent work that articulates views I am sympathetic to is [Shanahan (2022)](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding upon LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub> <br>
   <sub style="font-size:11px">*Topics: Natural Language Processing, Artificial Intelligence, Natural Language Understanding, Intentionality*</sub>
+
+Mathematics Papers
+======
+<span style="color:#52ADC8">**Asymmetric Processes**</span> [\[paper\]](/files/2024-win-math101-paper2.pdf){:target="_blank"} <br>
+  <sub>*Research paper for Stanford's MATH 101: Math Discovery Lab (Winter 2024)*<br>
+  This paper considers two models of asymmetric processes corresponding to Markov processes. We study the behavior of two different models at equilibrium: first where particle number stays constant, and second where particles enter and exit the model at certain rates. We observe probability distributions of particle configurations at equilibrium, as well as other properties such as average particle speed, by considering properties such as irreducibility, aperiodicity, and double stochasticity. </sub> <br>
+  <sub style="font-size:11px">*Topics: Markov Processes, Markov Chains, Probability Theory*</sub> 
+
+<span style="color:#52ADC8">**Infinite Coin Tosses**</span> [\[paper\]](/files/2024-win-math101-paper1.pdf){:target="_blank"} <br>
+  <sub>*Research paper for Stanford's MATH 101: Math Discovery Lab (Winter 2024)*<br>
+  This paper explores cumulative distribution functions for infinite coin tosses, parameterized by the probability *p* of flipping heads. We graph the outcomes of simulated coin flips and study properties of the cumulative distribution function, analyzing its pathological behavior in terms of continuity, differentiability, and arc length. </sub> <br>
+  <sub style="font-size:11px">*Topics: Probability Theory, Continuous Random Variables*</sub>
+
+<span style="color:#52ADC8">**Hilbert's 10th Problem**</span> [\[paper\]](/files/2023-spr-phil152-paper.pdf){:target="_blank"} <br>
+  <sub>*Research paper for Stanford's PHIL 152: Computability and Logic (Spring 2023)*<br>
+  This paper introduces and proves Hilbert's 10th Pproblem: determining the solvability of Diophantine equations over integers.
+  </sub> <br>
+  <sub style="font-size:11px">*Computability Theory*</sub>
 
 Technical Reports
 ======
