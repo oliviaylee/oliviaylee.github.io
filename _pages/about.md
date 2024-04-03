@@ -11,9 +11,9 @@ redirect_from:
 Hello! I am a final year undergraduate student at Stanford University (Class of 2024), pursuing a B.S. in [Symbolic Systems](https://symsys.stanford.edu/) with a minor in Mathematics and a coterminal M.S. in Computer Science. I conduct research with Stanford's [IRIS Lab](https://irislab.stanford.edu/) which studies intelligence through robotic interaction at scale, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/) and [Stanford Machine Learning Group](http://ml.stanford.edu/index.html). I am fortunate to be mentored by Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), [Suraj Nair](https://cs.stanford.edu/~surajn/), and [Annie Xie](https://anxie.github.io/).
 
 My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse datasets*, and *refine them through interaction* for performing complex tasks in the real world. I'm especially interested in:
-1. **Visual pretraining and representation learning**: Learning skill and object representations via pretraining on large, diverse datasets, and using them for sample-efficient exploration or downstream tasks. 
-2. **Interactive learning from multimodal human data**: Facilitating human-compatible robot behaviors by enabling robots to process multimodal inputs and feedback, potentially leveraging large pretrained models.
-3. **Continual data collection and learning**: Improving autonomous exploration methods for continually acquiring in-domain data and skills with limited supervision and adapting to novel environments. 
+1. **Visual pretraining and representation learning**: Enabling robots to harness skill and object representations for downstram tasks, potentially leveraging large pretrained models. 
+2. **Interactive learning from multimodal data**: Facilitating human-compatible robot behaviors by enabling robots to process multimodal inputs and feedback.
+3. **Continual data collection and learning**: Improving methods for continually acquiring in-domain data and skills with limited supervision for novel environment adaptation. 
 
 Inspired by my interdisciplinary coursework, I am drawn to research leveraging concepts in cognitive science for robot learning and visual understanding. I aim to better understand human cognitive processes, such as multimodal perception, curiosity, and interactive learning, to develop human-inspired learning algorithms for robotics. 
 

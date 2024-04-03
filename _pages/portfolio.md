@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A bit more about my personal background: I am a U.S. citizen who grew up and was educated in Singapore. Besides research, I worked as a software engineer at Salesforce and at several startups, ranging from deep tech (quantum computing) to B2C companies based in Southeast Asia and the United States. I also studied abroad at the University of Oxford (Magdalen College) in Fall 2022, where I studied graph representation learning and philosophy of mind, and tried my hand at rowing! I also enjoy playing tennis, hiking, reading (+ occasionally writing) science fiction, and brush calligraphy.
+More on my personal background: I am a U.S. citizen who grew up and was educated in Singapore. Besides research, I worked as a software engineer at Salesforce and at several startups, ranging from deep tech (quantum computing) to B2C companies based in Southeast Asia and the United States. I also studied abroad at the University of Oxford (Magdalen College) in Fall 2022, where I studied graph representation learning and philosophy of mind, and tried my hand at rowing! I also enjoy playing tennis, hiking, reading (+ occasionally writing) science fiction, and brush calligraphy.
 
 Below is an assortment of works that summarize my academic interests. 
 
@@ -18,7 +18,7 @@ Below is an assortment of works that summarize my academic interests.
 Teaching
 ======
 <span style="color:#52ADC8">**Winter & Spring 2024: CS 224N (Natural Language Processsing with Deep Learning) Graduate Course Assistant**</span> <br>
-   <sub> *Taught by Prof. Tatsunori Hashimoto / Prof. Diyi Yang (Winter 2024) and Prof. Christopher Manning (Spring 2024) *</sub> <br>
+   <sub> *Taught by Prof. Tatsunori Hashimoto / Prof. Diyi Yang (Winter 2024) and Prof. Christopher Manning (Spring 2024)*</sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Deep Learning*</sub>
 
 <span style="color:#52ADC8">**Fall 2023: CS 157 (Computational Logic) Graduate Course Assistant**</span> <br>
