@@ -80,7 +80,7 @@ Philosophy Papers
 
 <span style="color:#52ADC8">**Philosophy of Mind: Wittgenstein, The Unconscious Mind, and Self-Knowledge**</span> [\[paper\]](/files/2022-fall-oxfordphil-essays.pdf){:target="_blank"} <br>
   <sub>*Collection of essays for OSPOXFRD 199: Philosophy of Mind (Fall 2022)*<br>
-  A compilation of essays written for my Directed Reading in Philosophy of Mind, during my quarter abroad at Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. Topics included other minds, the privacy of experience, the unconscious mind, and self-knowledge. <br> 
+  A compilation of essays written for my Directed Reading in Philosophy of Mind, during my quarter abroad at Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. Topics included other minds, the privacy of experience, the unconscious mind, and self-knowledge.
   <!--The four essay titles and topics are: <br>
   Essay 1: Might your new philosophy tutor be a non-conscious ‘zombie’ for all you know? (Topic: Other Minds) <br>
   Essay 2: Might you see red where I see blue? (Topic: The Privacy of Experience) <br> 
