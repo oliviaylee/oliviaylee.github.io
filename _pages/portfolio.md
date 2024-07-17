@@ -46,14 +46,14 @@ Computational Projects
 
 <span style="color:#52ADC8">**A Shot in the Dark: Modeling Improved Zero-Shot and Few-Shot Transfer Learning with Self-Supervised Models for Sentiment Classification**</span> [\[paper\]](/files/2022-spr-cs229-paper.pdf){:target="_blank"} [\[poster\]](/files/2022-spr-cs229-poster.pdf){:target="_blank"} <br>
   <sub> *Final report and poster for Stanford's CS 229: Machine Learning (Spring 2022)*<br>
-  Modeled transfer learning with self-supervised embeddings and supervised models like DistilBERT to optimize model performance on sentiment classification tasks.</sub> <br>
+  Modeled transfer learning with self-supervised embeddings to optimize model performance on sentiment classification tasks.</sub> <br>
   <!-- We modeled transfer learning with self-supervised embeddings and supervised models at various scales to optimize model performance on sentiment classification tasks compared to DistilBERT. -->
   <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Self-Supervised Learning, Transfer Learning*</sub>
    
 <span style="color:#52ADC8">**Model Predictive Curiosity**</span> [\[paper\]](/files/2022-spr-psych240a-paper.pdf){:target="_blank"} [\[poster\]](/files/2022-spr-psych240a-poster.pdf){:target="_blank"} <br>
   <sub>*Final report and poster for Stanford's PSYCH 240A: Curiosity in Artificial Intelligence (Spring 2022)*<br>
-  <!-- We proposed Model Predictive Curiosity (MPCu), a framework that backpropagates on curiosity values predicted by a forward dynamics model to select curiosity-maximizing actions. We demonstrated the capability of MPCu to optimize for high-curiosity action values and enrich multi-object interactions in Box2D environment. -->
-  Demonstrated the capability of Model Predictive Curiosity (MPCu) to optimize for high-curiosity action values and enrich multi-object interactions in a Box2D environment.</sub> <br>
+  Proposed Model Predictive Curiosity (MPCu) to optimize for high-curiosity action values and enrich multi-object interactions in a Box2D environment.
+  <!-- We proposed Model Predictive Curiosity (MPCu), a framework that backpropagates on curiosity values predicted by a forward dynamics model to select curiosity-maximizing actions. We demonstrated the capability of MPCu to optimize for high-curiosity action values and enrich multi-object interactions in Box2D environment. --> </sub> <br>
   <sub style="font-size:11px">*Topics: Curiosity-Based Models, Model-Based Reinforcement Learning, Representation Learning, Self-Supervised Learning*</sub>
 
 <span style="color:#52ADC8">**Machine Learning-based platform using iBeacon Sensors for Product Location and Indoor Navigation to Improve Consumer Retail Experience**</span><br>
@@ -78,7 +78,7 @@ Philosophy Papers
 
 <span style="color:#52ADC8">**Philosophy of Mind: Wittgenstein, The Unconscious Mind, and Self-Knowledge**</span> [\[paper\]](/files/2022-fall-oxfordphil-essays.pdf){:target="_blank"} <br>
   <sub>*Collection of essays for OSPOXFRD 199: Philosophy of Mind (Fall 2022)*<br>
-  A compilation of essays written for my Directed Reading in Philosophy of Mind, during my quarter abroad at Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. Topics included other minds, the privacy of experience, the unconscious mid, and self-knowledge. <br> 
+  A compilation of essays written for my Directed Reading in Philosophy of Mind, during my quarter abroad at Oxford. Each essay was written to prepare for biweekly tutorial discussions over the quarter. Topics included other minds, the privacy of experience, the unconscious mind, and self-knowledge. <br> 
   <!--The four essay titles and topics are: <br>
   Essay 1: Might your new philosophy tutor be a non-conscious ‘zombie’ for all you know? (Topic: Other Minds) <br>
   Essay 2: Might you see red where I see blue? (Topic: The Privacy of Experience) <br> 
@@ -96,14 +96,14 @@ Philosophy Papers
   <sub>*Final paper for Stanford's SYMSYS 207: Conceptual Issues in Cognitive Neuroscience (Fall 2021)*<br>
   I argue that modern large language models (LLMs) cannot achieve strong intelligence.
   </sub> <br>
-  <sub style="font-size:11px">Author's Note (March 2023): This paper was written before the release of ChatGPT and GPT-4 (or GPT-x, depending on how far in the future you're reading this). In hindsight, I acknowledge this paper does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my general stance towards purely language-based models are still generally aligned with this paper, and another more recent work that articulates views I am sympathetic to is [Shanahan (2022)](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding on LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub> <br>
+  <sub style="font-size:11px">Author's Note (March 2023): This paper was written before the release of ChatGPT and GPT-4 (or GPT-x, depending on how far in the future you're reading this). In hindsight, I acknowledge this paper does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my stance towards purely language-based models are still generally aligned with this paper. Another work that articulates views I am sympathetic to is [Shanahan (2022)](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding on LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub> <br>
   <sub style="font-size:11px">*Topics: Natural Language Processing, Artificial Intelligence, Natural Language Understanding, Intentionality*</sub>
 
 Mathematics Papers
 ======
 <span style="color:#52ADC8">**Asymmetric Processes**</span> [\[paper\]](/files/2024-win-math101-paper2.pdf){:target="_blank"} <br>
   <sub>*Research paper for Stanford's MATH 101: Math Discovery Lab (Winter 2024)*<br>
-  Analyzes the properties of two asymmetric Markov models: first where particle number stays constant, and second where particles enter and exit the model at certain rates. We observe probability distributions of particle configurations at equilibrium, as well as other properties such as average particle speed, by considering irreducibility, aperiodicity, and double stochasticity. </sub> <br>
+  Analyzes two asymmetric Markov models: first where particle number stays constant, and second where particles enter and exit at certain rates. We study probability distributions of particle configurations at equilibrium, and properties such as average particle speed, irreducibility, aperiodicity, and double stochasticity. </sub> <br>
   <sub style="font-size:11px">*Topics: Markov Processes, Markov Chains, Probability Theory*</sub> 
 
 <span style="color:#52ADC8">**Infinite Coin Tosses**</span> [\[paper\]](/files/2024-win-math101-paper1.pdf){:target="_blank"} <br>
