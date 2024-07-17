@@ -18,10 +18,11 @@ author_profile: true
 
 <span style="display: inline-block;">
   <img src="/images/affordances.png" alt="Affordance Learning" style="width: 250px;float: right; margin-left: 10px;" />
-  <span style="color:#52ADC8">**Learning Affordances from Human Videos for Autonomous Robotic Exploration**</span> <br>
-    <sup>**Olivia Y. Lee**, Annie Xie, Karl Pertsch, Suraj Nair, and Chelsea Finn <br>
-    *Ongoing Project, presented at the [Stanford Symbolic Systems Annual Research Showcase](https://symsys.stanford.edu/events/ssp-fall-2023-poster-fair){:target="_blank"}* <br>
-    We are developing a real robot system that autonomously explores and gathers in-domain experience by leveraging priors from human data. To do so, we address the lack of well-shaped rewards, a key challenge for robotic exploration, by leveraging structural assumptions from human interaction data. I have conducted preliminary experiments in simulation and am currently testing the approach on a real robot system.</sup> 
+  <span style="color:#52ADC8">**Affordance-Guided Reinforcement Learning via Visual Prompting**</span> <br>
+    <sup>**Olivia Y. Lee**, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> [\[paper\]](https://arxiv.org/pdf/2407.10341.pdf){:target="_blank"}
+    *Robotics Science and Systems (RSS), 2024: Task Specification for General-Purpose Intelligent Robots* <br>
+    *Robotics Science and Systems (RSS), 2024: Lifelong Robot Learning* <br>
+    We present an approach that extracts affordance representations via visual prompting to define dense rewards for online reinforcement learning. We leverage the impressive ability of VLMs to reason about affordances through keypoints in zero-shot to define dense shaping rewards for robotic learning. On a real-world manipulation task specified by natural language description, the VLM-generated rewards improve the sample efficiency of autonomous RL, enabling success task completion in 20K online finetuning steps. Additionally, we demonstrate the robustness of the approach to reducing the number of in-domain demonstrations used for pretraining, reaching comparable performance in 35K online finetuning steps.</sup> 
 </span>
 
 <span style="display: inline-block;">
@@ -40,3 +41,13 @@ author_profile: true
     We provide a meta-analysis of research and development efforts that have contributed to the realization of satellite quantum-key distribution (satellite-QKD). We present an overview of the various technical parameters of performing satellite-based QKD regarding protocols and infrastructure. Following a timeline of key milestones in the development of satellite-QKD, we present a high-level summary of globally completed and proposed quantum satellite missions, categorized by specific advancements thus far in satellite-QKD. We conclude with a discussion on the technical challenges currently faced in satellite-QKD and future directions to address these challenges.
   </sup>
 </span>
+
+<!-- 6/24/2024:
+<span style="display: inline-block;">
+  <img src="/images/affordances.png" alt="Affordance Learning" style="width: 250px;float: right; margin-left: 10px;" />
+  <span style="color:#52ADC8">**Learning Affordances from Human Videos for Autonomous Robotic Exploration**</span> <br>
+    <sup>**Olivia Y. Lee**, Annie Xie, Karl Pertsch, Suraj Nair, and Chelsea Finn <br>
+    *Ongoing Project, presented at the [Stanford Symbolic Systems Annual Research Showcase](https://symsys.stanford.edu/events/ssp-fall-2023-poster-fair){:target="_blank"}* <br>
+    We are developing a real robot system that autonomously explores and gathers in-domain experience by leveraging priors from human data. To do so, we address the lack of well-shaped rewards, a key challenge for robotic exploration, by leveraging structural assumptions from human interaction data. I have conducted preliminary experiments in simulation and am currently testing the approach on a real robot system.</sup> 
+</span>
+-->
