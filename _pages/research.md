@@ -18,7 +18,7 @@ author_profile: true
 
 <span style="display: inline-block;">
   <img src="/images/affordances.jpg" alt="Affordance Learning" style="width: 300px;float: right; margin-left: 10px;" />
-  <span style="color:#52ADC8">**Affordance-Guided Reinforcement Learning via Visual Prompting**</span> <br> [\[paper\]](https://arxiv.org/pdf/2407.10341.pdf){:target="_blank"}
+  <span style="color:#52ADC8">**Affordance-Guided Reinforcement Learning via Visual Prompting**</span> <br> [\[paper\]](https://arxiv.org/pdf/2407.10341.pdf){:target="_blank"} <br>
     <sup>**Olivia Y. Lee**, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> 
     *Robotics Science and Systems (RSS), 2024: Task Specification for General-Purpose Intelligent Robots* <br>
     *Robotics Science and Systems (RSS), 2024: Lifelong Robot Learning* <br>
@@ -27,7 +27,7 @@ author_profile: true
 </span>
 
 <span style="display: inline-block;">
-  <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 250px;float: right; margin-left: 10px;" />
+  <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 300px;float: right; margin-left: 10px;" />
   <span style="color:#52ADC8">**Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning**</span> [\[paper\]](https://arxiv.org/pdf/2205.14850.pdf){:target="_blank"} [\[site\]](https://sites.google.com/view/playitbyear){:target="_blank"} [\[publication\]](https://roboticsconference.org/2022/program/papers/009/){:target="_blank"}<br>
     <sup>Maximilian Du\*, **Olivia Y. Lee**\*, Suraj Nair, and Chelsea Finn <br>
     *Robotics Science and Systems (RSS), 2022 [\[recording\]](https://youtu.be/qI0zvRp-UnE?t=4034){:target="_blank"}* <br> 
@@ -37,7 +37,7 @@ author_profile: true
 </span>
  
 <span style="display: inline-block;">
-  <img src="/images/satelliteqkd.png" alt="Satellite-QKD" style="width: 250px;float: right; margin-left: 10px;" />   
+  <img src="/images/satelliteqkd.png" alt="Satellite-QKD" style="width: 300px;float: right; margin-left: 10px;" />   
   <span style="color:#52ADC8">**An updated analysis of satellite quantum-key distribution missions**</span> [\[paper\]](https://arxiv.org/pdf/1909.13061.pdf){:target="_blank"} <br>
   <sup>**Olivia Y. Lee**, Tom Vergoossen<br>
     We provide a meta-analysis of research and development efforts towards the realization of satellite quantum-key distribution (satellite-QKD). We analyze technical parameters of protocols and infrastructure for performing satellite-based QKD. Following a timeline of key milestones, we summarize globally completed and proposed quantum satellite missions, categorized by specific advancements thus far in satellite-QKD. We conclude by discussing the current technical in satellite-QKD and future research directions to address them.
