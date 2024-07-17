@@ -36,7 +36,7 @@ author_profile: true
 </span>
  
 <span style="display: inline-block;">
-  <img src="/images/satelliteqkd.png" alt="Satellite-QKD" style="width: 250px;float: right; margin-left: 10px;" />   
+  <img src="/images/satelliteqkd.png" alt="Satellite-QKD" style="width: 290px;float: right; margin-left: 10px;" />   
   <span style="color:#52ADC8">**An updated analysis of satellite quantum-key distribution missions**</span> [\[paper\]](https://arxiv.org/pdf/1909.13061.pdf){:target="_blank"} <br>
   <sup>**Olivia Y. Lee**, Tom Vergoossen<br>
     We provide a meta-analysis of research and development efforts towards the realization of satellite quantum-key distribution (satellite-QKD). We analyze technical parameters of protocols and infrastructure for performing satellite-based QKD. Following a timeline of key milestones, we summarize globally completed and proposed quantum satellite missions, categorized by specific advancements thus far in satellite-QKD. We conclude by discussing the current technical in satellite-QKD and future research directions to address them.
