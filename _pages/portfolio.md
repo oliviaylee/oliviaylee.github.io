@@ -26,15 +26,15 @@ Thesis Papers
 
 Teaching
 ======
-<span style="color:#52ADC8">**Summer 2024: CS 229 (Machine Learning) Graduate Course Assistant**</span> <br>
+<span style="color:#52ADC8">**Summer 2024: CS 229 Machine Learning**</span> <br>
    <sub> *Taught by Prof. Jehangir Amjad*</sub> <br>
    <sub style="font-size:11px">*Topics: Machine Learning, Supervised Learning, Unsupervised Learning*</sub>
 
-<span style="color:#52ADC8">**Winter & Spring 2024: CS 224N (Natural Language Processsing with Deep Learning) Graduate Course Assistant**</span> <br>
+<span style="color:#52ADC8">**Winter & Spring 2024: CS 224N Natural Language Processsing with Deep Learning **</span> <br>
    <sub> *Taught by Prof. Tatsunori Hashimoto / Prof. Diyi Yang (Winter 2024) and Prof. Christopher Manning (Spring 2024)*</sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Deep Learning*</sub>
 
-<span style="color:#52ADC8">**Fall 2023: CS 157 (Computational Logic) Graduate Course Assistant**</span> <br>
+<span style="color:#52ADC8">**Fall 2023: CS 157 Computational Logic**</span> <br>
    <sub> *Taught by Prof. Michael Genesereth*</sub> <br>
    <sub style="font-size:11px">*Topics: Propositional Logic, Relational Logic, Functional Logic*</sub>
 
