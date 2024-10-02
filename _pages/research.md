@@ -26,7 +26,7 @@ author_profile: true
 </span>
 
 <span style="display: inline-block;">
-  <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 280px;float: right; margin-left: 10px;" />
+  <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 300px;float: right; margin-left: 10px;" />
   <span style="color:#52ADC8">**Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning**</span> [\[paper\]](https://arxiv.org/pdf/2205.14850.pdf){:target="_blank"} [\[site\]](https://sites.google.com/view/playitbyear){:target="_blank"} [\[publication\]](https://roboticsconference.org/2022/program/papers/009/){:target="_blank"}<br>
     <sup>Maximilian Du\*, **Olivia Y. Lee**\*, Suraj Nair, and Chelsea Finn <br>
     *Robotics Science and Systems (RSS), 2022 [\[recording\]](https://youtu.be/qI0zvRp-UnE?t=4034){:target="_blank"}* <br> 
