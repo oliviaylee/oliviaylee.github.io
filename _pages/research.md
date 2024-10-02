@@ -17,7 +17,7 @@ author_profile: true
 -->
 
 <span style="display: inline-block;">
-  <img src="/images/affordances.png" alt="Affordance Learning" style="width: 280px;float: right; margin-left: 10px;" />
+  <img src="/images/affordances.png" alt="Affordance Learning" style="width: 300px;float: right; margin-left: 10px;" />
   <span style="color:#52ADC8">**Affordance-Guided Reinforcement Learning via Visual Prompting**</span> [\[paper\]](https://arxiv.org/pdf/2407.10341.pdf){:target="_blank"} [\[site\]](https://sites.google.com/view/affordance-guided-rl){:target="_blank"} <br>
     <sup>**Olivia Y. Lee**, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> 
     *Robotics Science and Systems (RSS), 2024: [Task Specification](https://sites.google.com/view/rss-taskspec){:target="_blank"} & [Lifelong Robot Learning](https://sites.google.com/view/lifelong-robot-learning){:target="_blank"}* <br>
@@ -26,7 +26,7 @@ author_profile: true
 </span>
 
 <span style="display: inline-block;">
-  <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 300px;float: right; margin-left: 10px;" />
+  <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 280px;float: right; margin-left: 10px;" />
   <span style="color:#52ADC8">**Play it by Ear: Learning Skills amidst Occlusion through Audio-Visual Imitation Learning**</span> [\[paper\]](https://arxiv.org/pdf/2205.14850.pdf){:target="_blank"} [\[site\]](https://sites.google.com/view/playitbyear){:target="_blank"} [\[publication\]](https://roboticsconference.org/2022/program/papers/009/){:target="_blank"}<br>
     <sup>Maximilian Du\*, **Olivia Y. Lee**\*, Suraj Nair, and Chelsea Finn <br>
     *Robotics Science and Systems (RSS), 2022 [\[recording\]](https://youtu.be/qI0zvRp-UnE?t=4034){:target="_blank"}* <br> 
