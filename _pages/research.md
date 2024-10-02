@@ -17,7 +17,7 @@ author_profile: true
 -->
 
 <span style="display: inline-block;">
-  <img src="/images/affordances.jpg" alt="Affordance Learning" style="width: 280px;float: right; margin-left: 10px;" />
+  <img src="/images/affordances.png" alt="Affordance Learning" style="width: 280px;float: right; margin-left: 10px;" />
   <span style="color:#52ADC8">**Affordance-Guided Reinforcement Learning via Visual Prompting**</span> [\[paper\]](https://arxiv.org/pdf/2407.10341.pdf){:target="_blank"} [\[site\]](https://sites.google.com/view/affordance-guided-rl){:target="_blank"} <br>
     <sup>**Olivia Y. Lee**, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> 
     *Robotics Science and Systems (RSS), 2024: [Task Specification](https://sites.google.com/view/rss-taskspec){:target="_blank"} & [Lifelong Robot Learning](https://sites.google.com/view/lifelong-robot-learning){:target="_blank"}* <br>
