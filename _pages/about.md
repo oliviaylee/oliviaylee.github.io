@@ -11,11 +11,18 @@ redirect_from:
 Hello! I am a Master's student at Stanford University. I completed my B.S. with [Honors](/files/Honors_Thesis.pdf){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/) and a minor in Mathematics, and am currently pursuing a coterminal M.S. in Computer Science. I conduct research with Stanford's [IPRL Lab](https://iprl.stanford.edu/), affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/), which seeks to understand the underlying principles of robust sensorimotor coordination by implementing them on robots. I am fortunate to be mentored by [Jeannette Bohg](https://web.stanford.edu/~bohg/), and previously by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), [Suraj Nair](https://suraj-nair-1.github.io/), and [Annie Xie](https://anxie.github.io/) of Stanford's [IRIS Lab](https://irislab.stanford.edu/).
 
 My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse datasets*, and *refine them through interaction* for performing complex tasks in the real world. I'm especially interested in:
+1. **Representation learning from diverse data**: Developing robust state and action representations for robot learning by extracting useful interaction priors from diverse human and robot data.
+2. **Learning through interaction**: Enhancing precision and robustness of pre-trained policies via training in high-fidelity simulation and sample-efficient online fine-tuning.
+3. **Autonomous data collection**: Enabling robots to continually acquire in-domain experience and practice skills with limited supervision.
+<!-- 4. **Long-horizon planning**: Integrating robust skill learning with long-horizon task planning for adaptive, closed-loop task execution.--> 
+
+If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach me at oliviayl [at] stanford [dot] edu.
+
+<!-- 10/21/2024
 1. **Learning from human data**: Enabling robots to leverage skill and object representations learned from human data for downstream tasks.
 2. **Long-horizon planning and reasoning**: Improving long-horizon task completion by processing multimodal inputs and environmental feedback.
 3. **Representation learning**: Developing robust action and state representations for planning, goal specification, and closed-loop task execution.
-
-If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach me at oliviayl [at] stanford [dot] edu.
+-->
 
 <!-- 6/24/2024 Hello! I am a final year undergraduate student at Stanford University (Class of 2024), pursuing a B.S. in [Symbolic Systems](https://symsys.stanford.edu/) with a minor in Mathematics and a coterminal M.S. in Computer Science. I conduct research with Stanford's [IRIS Lab](https://irislab.stanford.edu/) which studies intelligence through robotic interaction at scale, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/) and [Stanford Machine Learning Group](http://ml.stanford.edu/index.html). I am fortunate to be mentored by Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), [Suraj Nair](https://cs.stanford.edu/~surajn/), and [Annie Xie](https://anxie.github.io/).
 1. **Visual pretraining and representation learning**: Enabling robots to harness skill and object representations for downstram tasks, learned from human data. 
