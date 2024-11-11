@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-More on my personal background: I am a U.S. citizen who grew up and was educated in Singapore. Besides research, I worked as a software engineer at Salesforce and at several startups, ranging from deep tech (quantum computing) to B2C companies based in Southeast Asia and the United States. I also studied abroad at the University of Oxford (Magdalen College) in Fall 2022, where I studied graph representation learning and philosophy of mind, and tried my hand at rowing! I enjoy playing tennis, hiking, reading (+ occasionally writing) science fiction, and brush calligraphy.
+More on my personal background: I am a U.S. citizen who grew up and was educated in Singapore. Besides research, I worked as a software engineer at Salesforce and at several startups, ranging from deep tech (quantum computing) to B2C companies based in Southeast Asia and the United States. I also studied abroad at the University of Oxford (Magdalen College) in Fall 2022, where I studied graph representation learning and philosophy of mind, and tried my hand at rowing! I enjoy playing tennis, snowboarding, hiking, reading (+ occasionally writing) science fiction, and brush calligraphy.
 
 Inspired by my interdisciplinary coursework, I am drawn to research leveraging cognitive science for robot learning and visual understanding. I aim to better understand human cognitive processes, such as multimodal perception, curiosity, and interactive learning, to develop human-inspired learning algorithms for robotics.
 
@@ -30,7 +30,7 @@ Teaching
    <sub> *Taught by Prof. Jehangir Amjad*</sub> <br>
    <sub style="font-size:11px">*Topics: Machine Learning, Supervised Learning, Unsupervised Learning*</sub>
 
-<span style="color:#52ADC8">**Winter & Spring 2024: CS 224N Natural Language Processsing with Deep Learning**</span> <br>
+<span style="color:#52ADC8">**Winter 2024, Spring 2024: CS 224N Natural Language Processsing with Deep Learning**</span> <br>
    <sub> *Taught by Prof. Tatsunori Hashimoto / Prof. Diyi Yang (Winter 2024) and Prof. Christopher Manning (Spring 2024)*</sub> <br>
     <sub style="font-size:11px">*Topics: Natural Language Processing, Machine Learning, Deep Learning*</sub>
 
