@@ -13,8 +13,8 @@ Hello! I am a Master's student at Stanford University. I completed my B.S. with 
 My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse datasets*, and *refine them through interaction* for performing complex tasks in the real world. I'm especially interested in:
 1. **Representation learning from diverse data**: Developing robust state and action representations for robot learning by extracting useful interaction priors from diverse human and robot data.
 2. **Learning through interaction**: Enhancing precision and robustness of pre-trained policies via training in high-fidelity simulation and sample-efficient online fine-tuning.
-3. **Autonomous data collection**: Enabling robots to continually acquire in-domain experience and practice skills with limited supervision.
-<!-- 4. **Long-horizon planning**: Integrating robust skill learning with long-horizon task planning for adaptive, closed-loop task execution.--> 
+3. **Human-robot collaboration**: Enabling robots to continually practice skills and acquire in-domain data autonomously, while interactively adapting to intermittent human feedback or interventions.
+4. **Robust manipulation and control**: Integrating adaptive control and perception systems with robot learning to robustly respond to dynamic changes and occlusions.
 
 If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach me at oliviayl [at] stanford [dot] edu.
 
