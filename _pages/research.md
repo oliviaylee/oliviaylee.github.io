@@ -19,7 +19,28 @@ author_profile: true
   \* denotes equal contribution 
 </span>
 
-<span style="display: inline-block;">
+<div style="display: flex; align-items: flex-start;">
+  <!-- Left column: Text content -->
+  <div style="flex: 1; padding-right: 20px;">
+    <span style="color:#52ADC8">**Crossing the Human-Robot Embodiment Gap with Sim-to-Real Reinforcement Learning using One Human Demonstration**</span> 
+    <a href="https://human2sim2robot.github.io" target="_blank">[paper]</a> 
+    <a href="https://human2sim2robot.github.io" target="_blank">[site]</a> <br>
+    <sup>Tyler Ga Wei Lum*, <b>Olivia Y. Lee</b>*, C. Karen Liu, Jeannette Bohg <br> 
+    <i>In review.</i> <br>
+    <b>TL;DR: We develop a real-to-sim-to-real framework that trains dexterous manipulation policies with RL in simulation from a single RGB-D human video demonstration. These policies can be deployed zero-shot on a real robot with only minutes of human effort.</b> <br>
+    We propose Human2Sim2Robot, a novel real-to-sim-to-real framework for training dexterous manipulation policies using only one RGB-D video of a human demonstrating a task. Our method utilizes reinforcement learning (RL) in simulation to cross the human-robot embodiment gap without relying on wearables, teleoperation, or large-scale data collection typically necessary for imitation learning methods. From the demonstration, we extract two task-specific components: (1) the object pose trajectory to define an object-centric, embodiment-agnostic reward function, and (2) the pre-manipulation hand pose to initialize and guide exploration during RL training, which together eliminate the need for task-specific reward shaping and tuning. We demonstrate that Human2Sim2Robot significantly outperforms baselines across a range of grasping, non-prehensile manipulation, and extrinsic manipulation tasks.</sup>
+  </div>
+  
+  <!-- Right column: Image and video stacked -->
+  <div style="width: 300px;">
+    <img src="/images/h2s2r.png" alt="Human2Sim2Robot" style="width: 100%; margin-bottom: 10px;" />
+    <video width="300px" autoplay controls muted loop playsinline>
+      <source src="/images/h2s2r.mov" type="video/mp4">
+    </video>
+  </div>
+</div>
+
+<!-- <span style="display: inline-block;">
   <img src="/images/h2s2r.png" alt="Human2Sim2Robot" style="width: 300px;float: right; margin-left: 10px;" />
   <video width="300px" float="right" margin-left="10px" autoplay controls muted loop playsinline> <source src="/images/h2s2r.mov" type="video/mp4"> </video>
   <span style="color:#52ADC8">**Crossing the Human-Robot Embodiment Gap with Sim-to-Real Reinforcement Learning using One Human Demonstration**</span> [\[paper\]](https://human2sim2robot.github.io){:target="_blank"} [\[site\]](https://human2sim2robot.github.io){:target="_blank"} <br>
@@ -27,7 +48,7 @@ author_profile: true
     *In review.* <br>
     **TL;DR: We develop a real-to-sim-to-real framework that trains dexterous manipulation policies with RL in simulation from a single RGB-D human video demonstration. These policies can be deployed zero-shot on a real robot with only minutes of human effort.** <br>
     We propose Human2Sim2Robot, a novel real-to-sim-to-real framework for training dexterous manipulation policies using only one RGB-D video of a human demonstrating a task. Our method utilizes reinforcement learning (RL) in simulation to cross the human-robot embodiment gap without relying on wearables, teleoperation, or large-scale data collection typically necessary for imitation learning methods. From the demonstration, we extract two task-specific components: (1) the object pose trajectory to define an object-centric, embodiment-agnostic reward function, and (2) the pre-manipulation hand pose to initialize and guide exploration during RL training, which together eliminate the need for task-specific reward shaping and tuning. We demonstrate that Human2Sim2Robot significantly outperforms baselines across a range of grasping, non-prehensile manipulation, and extrinsic manipulation tasks. </sup> 
-</span>
+</span> -->
 
 <span style="display: inline-block;">
   <img src="/images/affordances.png" alt="Affordance Learning" style="width: 300px;float: right; margin-left: 10px;" />

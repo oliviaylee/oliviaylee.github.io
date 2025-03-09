@@ -52,7 +52,7 @@ Computational Projects
    
 <span style="color:#52ADC8">**Model Predictive Curiosity**</span> [\[paper\]](/files/2022-spr-psych240a-paper.pdf){:target="_blank"} [\[poster\]](/files/2022-spr-psych240a-poster.pdf){:target="_blank"} <br>
   <sub>*Final report and poster for Stanford's PSYCH 240A: Curiosity in Artificial Intelligence (Spring 2022)*<br>
-  Proposed Model Predictive Curiosity (MPCu) to optimize for high-curiosity action values and enrich multi-object interactions in a Box2D environment.
+  Proposed Model Predictive Curiosity (MPCu) to optimize for high-curiosity action values and enrich multi-object interactions in a Box2D environment.</sub> <br>
   <sub style="font-size:11px">*Topics: Curiosity-Based Models, Model-Based Reinforcement Learning, Representation Learning, Self-Supervised Learning*</sub>
 
 <!-- <span style="color:#52ADC8">**Machine Learning-based platform using iBeacon Sensors for Product Location and Indoor Navigation to Improve Consumer Retail Experience**</span><br>
@@ -87,7 +87,7 @@ Philosophy Papers
   <sub>*Final paper for Stanford's SYMSYS 207: Conceptual Issues in Cognitive Neuroscience (Fall 2021)*<br>
   I argue that modern large language models (LLMs) cannot achieve strong intelligence.
   </sub> <br>
-  <sub style="font-size:11px">Author's Note (March 2023): This paper was written before the release of ChatGPT and GPT-4 (or GPT-x, depending on how far in the future you're reading this). In hindsight, I acknowledge this paper does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my stance towards purely language-based models are still generally aligned with this paper. Another work that articulates views I am sympathetic to is [Shanahan (2022)](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding on LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub> <br>
+  <sub style="font-size:11px">Author's Note (March 2023): In hindsight, I acknowledge this paper does not give sufficient credit to the impressive emergent behaviors observed in LLMs. However, my stance towards purely language-based models are still generally aligned with this paper. Another work that articulates views I am sympathetic to is [Shanahan (2022)](https://arxiv.org/pdf/2212.03551.pdf){:target="_blank"}. That said, there are many cool developments expanding on LLMs (like vision-language models, or grounded language models more generally) that I'm excited about! </sub> <br>
   <sub style="font-size:11px">*Topics: Natural Language Processing, Artificial Intelligence, Natural Language Understanding, Intentionality*</sub>
 
 Mathematics Papers
@@ -112,7 +112,7 @@ Technical Reports
 ======
 <span style="color:#52ADC8">**The Future of Human-Machine Interaction: Keeping Humans in the Loop**</span> [\[paper\]](/files/2022-fall-ospoxfrd29-paper.pdf){:target="_blank"} <br>
   <sub>*Final paper for Stanford's OSPOXFRD 29: Artificial Intelligence & Society (Fall 2022)* <br>
-  The doomsday ending that humans will be demolished in the fierce intelligence competition with AI systems, while remarkably enduring, is a narrow view that distracts us from active measures that can be taken in the present day. I assert that a key tenet of AI development going forward should be keeping humans in the loop, and evaluate three technical research areas facilitating human-in-the-loop AI development and deployment. Distinguishing between non-immediate decision making (e.g., data analytics and robotics) and time-sensitive, safety-critical decision making (e.g., autonomous vehicles and aircraft) is key to understanding how to best facilitate human-AI collaboration in each case.</sub> <br>
+  The doomsday ending that humans will be demolished in the fierce intelligence competition with AI systems, while remarkably enduring, is a narrow view that distracts us from active measures that can be presently taken. A key tenet of AI development going forward should be keeping humans in the loop, and I evaluate three technical research areas facilitating human-in-the-loop AI development and deployment. Distinguishing between non-immediate decision making (e.g., data analytics, robotics) and time-sensitive, safety-critical decision making (e.g., autonomous vehicles, aircraft) is key to understanding how to best facilitate human-AI collaboration in each case.</sub> <br>
   <sub style="font-size:11px">*Topics: Human-AI Interaction, AI Safety, Human-In-The-Loop Development, Decision-Making*</sub>
 
 <span style="color:#52ADC8">**A Proposal for Building Safety Benchmarking Services in CAIS systems**</span> [\[paper\]](/files/2021-spr-seri-paper.pdf){:target="_blank"} <br>
@@ -127,7 +127,7 @@ Technical Reports
 
 <span style="color:#52ADC8">**Autonomous Vehicles: From Vision to Reality**</span> [\[paper\]](/files/2020-fall-cs56n-paper.pdf){:target="_blank"} <br>
   <sub>*Final paper for Stanford's CS 56N: Great Discoveries and Inventions in Computing, taught by Prof. John Hennessey (Fall 2020)*<br>
-  We analyze current developments in autonomous driving, and discuss technological hurdles in enhancing the security of autonomous systems and implementation at scale.</sub> <br>
+  We analyze current developments in autonomous driving, and discuss technological hurdles in secure, scalable implementation of autonomous systems.</sub> <br>
   <sub style="font-size:11px">*Topics: Autononous Driving, Computer Vision, LiDAR/RADAR Sensor Systems, AI Safety*</sub>
 
 <!-- <span style="color:#52ADC8">**When Worlds Collide: Challenges and Opportunities in Virtual Reality**</span> [\[paper\]](/files/2021-fall-history44q-paper.pdf){:target="_blank"} [\[publication\]](https://ojs.stanford.edu/ojs/index.php/sjfgss/article/view/2109){:target="_blank"} <br>
