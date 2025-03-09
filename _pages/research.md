@@ -43,7 +43,7 @@ author_profile: true
     <span style="color:#52ADC8"><b>Affordance-Guided Reinforcement Learning via Visual Prompting</b></span> 
     <a href="https://arxiv.org/abs/2407.10341" target="_blank">[paper]</a> 
     <a href="https://sites.google.com/view/affordance-guided-rl" target="_blank">[site]</a> <br>
-    <sup>**Olivia Y. Lee**, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> 
+    <sup><b>Olivia Y. Lee</b>, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> 
     <i>In review. Robotics Science and Systems (RSS), 2024: <a href="https://sites.google.com/view/rss-taskspec" target="_blank">Task Specification</a> & <a href="https://sites.google.com/view/lifelong-robot-learning" target="_blank">Lifelong Robot Learning</a></i> <br>
     <b>TL;DR: To effectively improve the performance of policies pre-trained on diverse data, we make fine-tuning with online RL more efficient using affordance representations extracted from VLMs zero-shot.</b> <br>
     We present an approach that extracts affordance representations from VLMs via keypoints to define dense shaping rewards for online reinforcement learning. We pretrain policies on Bridge data and a modest number of in-domain demonstrations of the task, and finetune policies online using VLM-generated dense rewards. On a real-world manipulation task, our VLM-generated rewards improve the sample efficiency of autonomous RL, enabling task completion in 20K online finetuning steps. Our approach is robust to reducing in-domain demonstrations used for pretraining, reaching comparable performance in 35K online finetuning steps.</sup>
@@ -60,7 +60,7 @@ author_profile: true
     <a href="https://arxiv.org/abs/2205.14850" target="_blank">[paper]</a> 
     <a href="https://sites.google.com/view/playitbyear" target="_blank">[site]</a>
     <a href="https://roboticsconference.org/2022/program/papers/009/" target="_blank">[publication]</a> <br>
-    <sup>Maximilian Du\*, **Olivia Y. Lee**\*, Suraj Nair, and Chelsea Finn <br> 
+    <sup>Maximilian Du*, <b>Olivia Y. Lee</b>*, Suraj Nair, and Chelsea Finn <br> 
     <i>Robotics Science and Systems (RSS), 2022 <a href="https://youtu.be/qI0zvRp-UnE?t=4034" target="_blank">[recording]</a></i> <br>
     <b>TL;DR: We show that augmenting image input with audio and proprioception, as well as online human interventions, help imitation learning policies improve success on challenging partially-occluded tasks.</b> <br>
     We present a system that learns to complete partially-observed manipulation tasks by reasoning over vision, audio, and memory. We combine offline imitation learning from a modest number of tele-operated demonstrations and online finetuning with human interventions. In simulation, our system benefits from using audio and online interventions, which improve success rates of offline imitation learning by ~20%. On a Franka Emika Panda robot, our system completes manipulation tasks under occlusion with a 70% success rate, 50% higher than a policy that does not use audio.</sup>
@@ -75,7 +75,7 @@ author_profile: true
   <div style="flex: 1; padding-right: 20px;">
     <span style="color:#52ADC8"><b>An updated analysis of satellite quantum-key distribution missions</b></span> 
     <a href="https://arxiv.org/abs/1909.13061" target="_blank">[paper]</a> <br>
-    <sup>**Olivia Y. Lee**, Tom Vergoossen <br> 
+    <sup><b>Olivia Y. Lee</b>, Tom Vergoossen <br> 
     We provide a meta-analysis of research and development efforts towards the realization of satellite quantum-key distribution (satellite-QKD). We analyze technical parameters of protocols and infrastructure for performing satellite-based QKD. Following a timeline of key milestones, we summarize globally completed and proposed quantum satellite missions, categorized by specific advancements thus far in satellite-QKD. We conclude by discussing the current technical in satellite-QKD and future research directions to address them.</sup>
   </div>
   
