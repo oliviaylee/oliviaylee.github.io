@@ -22,7 +22,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
     <span style="color:#52ADC8"><b>Crossing the Human-Robot Embodiment Gap with Sim-to-Real Reinforcement Learning using One Human Demonstration</b></span> 
-    <a href="https://human2sim2robot.github.io" target="_blank">[paper]</a> 
+    <a href="https://arxiv.org/abs/2504.12609" target="_blank">[paper]</a> 
     <a href="https://human2sim2robot.github.io" target="_blank">[site]</a> <br>
     <sup>Tyler Ga Wei Lum*, <b>Olivia Y. Lee</b>*, C. Karen Liu, Jeannette Bohg <br> 
     <i>In review</i> <br>
