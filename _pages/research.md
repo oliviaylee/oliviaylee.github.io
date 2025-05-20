@@ -19,6 +19,16 @@ author_profile: true
   \* denotes equal contribution 
 </span>
 
+Thesis Papers
+======
+<span style="color:#52ADC8">**Scaling Robot Learning without Scaling Human Effort**</span> [\[thesis\]](/files/Masters_Thesis.pdf){:target="_blank"}<br>
+  <sub> *Master's Thesis* </sub> <br>
+
+<span style="color:#52ADC8">**Leveraging Affordance Representations for Robot Learning**</span> [\[thesis\]](/files/Honors_Thesis.pdf){:target="_blank"} [\[publication\]](https://doi.org/10.25740/jp127mt8218){:target="_blank"} <br>
+  <sub> *Undergraduate Honors Thesis* </sub> <br>
+
+Conference Papers
+======
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
     <span style="color:#52ADC8"><b>Crossing the Human-Robot Embodiment Gap with Sim-to-Real Reinforcement Learning using One Human Demonstration</b></span> 
