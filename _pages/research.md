@@ -15,9 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-<span style="display: inline-block;">
-  \* denotes equal contribution 
-</span>
 
 Thesis Papers
 ======
@@ -29,6 +26,10 @@ Thesis Papers
 
 Conference Papers
 ======
+<span style="display: inline-block;">
+  \* denotes equal contribution 
+</span>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
     <span style="color:#52ADC8"><b>Crossing the Human-Robot Embodiment Gap with Sim-to-Real Reinforcement Learning using One Human Demonstration</b></span> 
