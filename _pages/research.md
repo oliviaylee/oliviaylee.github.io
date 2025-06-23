@@ -20,6 +20,7 @@ Thesis Papers
 ======
 <span style="color:#52ADC8">**Scaling Robot Learning without Scaling Human Effort**</span> [\[thesis\]](/files/Masters_Thesis.pdf){:target="_blank"}<br>
   <sub> *Master's Thesis* </sub> <br>
+  <sub> Christofer Stephenson Memorial Award for Graduate Research: Best Master's Thesis in Computer Science <sub>
 
 <span style="color:#52ADC8">**Leveraging Affordance Representations for Robot Learning**</span> [\[thesis\]](/files/Honors_Thesis.pdf){:target="_blank"} [\[publication\]](https://doi.org/10.25740/jp127mt8218){:target="_blank"} <br>
   <sub> *Undergraduate Honors Thesis* </sub> <br>
@@ -55,7 +56,8 @@ Conference Papers
     <a href="https://arxiv.org/abs/2407.10341" target="_blank">[paper]</a> 
     <a href="https://sites.google.com/view/affordance-guided-rl" target="_blank">[site]</a> <br>
     <sup><b>Olivia Y. Lee</b>, Annie Xie, Kuan Fang, Karl Pertsch, and Chelsea Finn <br> 
-    <i>In review. Robotics Science and Systems (RSS), 2024: <a href="https://sites.google.com/view/rss-taskspec" target="_blank">Task Specification</a> & <a href="https://sites.google.com/view/lifelong-robot-learning" target="_blank">Lifelong Robot Learning</a></i> <br>
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</i> <br>
+    <i>Robotics Science and Systems (RSS), 2024: <a href="https://sites.google.com/view/rss-taskspec" target="_blank">Task Specification</a> & <a href="https://sites.google.com/view/lifelong-robot-learning" target="_blank">Lifelong Robot Learning</a></i> <br>
     <b>TL;DR: To effectively improve the performance of policies pre-trained on diverse data, we make fine-tuning with online RL more efficient using affordance representations extracted from VLMs zero-shot.</b> <br>
     We present an approach that extracts affordance representations from VLMs via keypoints to define dense shaping rewards for online reinforcement learning. We pretrain policies on Bridge data and a modest number of in-domain demonstrations of the task, and finetune policies online using VLM-generated dense rewards. On a real-world manipulation task, our VLM-generated rewards improve the sample efficiency of autonomous RL, enabling task completion in 20K online finetuning steps. Our approach is robust to reducing in-domain demonstrations used for pretraining, reaching comparable performance in 35K online finetuning steps.</sup>
   </div>
