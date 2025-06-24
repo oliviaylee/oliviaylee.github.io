@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/) at [IPRL Lab](https://iprl.stanford.edu/), affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/). As an undergraduate, I was also advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) at [IRIS Lab](https://irislab.stanford.edu/).
+Hello! I am a researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. As an undergraduate, I was also advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
 
-I recently graduated from Stanford with my M.S. with [Research Distinction](https://oliviaylee.github.io/files/Masters_Thesis.pdf) in Computer Science. Before that, I graduated with my B.S. with [Honors](https://purl.stanford.edu/jp127mt8218){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/){:target="_blank"} and minor in Mathematics. 
+I recently graduated from Stanford with my M.S. with [Research Distinction](https://oliviaylee.github.io/files/Masters_Thesis.pdf){:target="_blank"} in Computer Science. Before that, I graduated with my B.S. with [Honors](https://purl.stanford.edu/jp127mt8218){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/){:target="_blank"} and minor in Mathematics. 
 
 My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse datasets*, and *refine them through interaction* for performing complex tasks in the real world. I'm especially interested in:
-1. **Representation learning from diverse data**: Extracting useful interaction priors from diverse human and robot data to facilitate robot learning.
+1. **Representation learning from diverse data**: Extracting useful interaction priors from diverse human and robot data.
 2. **Learning through interaction**: Enhancing precision, dexterity, and robustness via sample-efficient online interaction.
 3. **Robust manipulation and control**: Scaling dexterous manipulation to challenging dynamic settings.
 4. **Human-robot collaboration**: Enabling robots to autonomously complete tasks while adapting to human feedback on the fly.
