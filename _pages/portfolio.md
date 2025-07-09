@@ -7,11 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-More on my personal background: I am a U.S. citizen who grew up and was educated in Singapore. Besides research, I worked as a software engineer at Salesforce and as a product strategist at several startups, ranging from deep tech (quantum computing) to B2C companies based in Southeast Asia and the US. I also studied abroad at the University of Oxford (Magdalen College) in Fall 2022, where I studied graph representation learning and philosophy of mind, and tried my hand at rowing! I enjoy playing tennis, snowboarding, ashtanga yoga, hiking, science fiction, and brush calligraphy.
-
 Inspired by my interdisciplinary coursework, I am drawn to research leveraging cognitive science for robot learning and visual understanding. I aim to better understand human cognitive processes, such as multimodal perception, curiosity, and interactive learning, to develop human-inspired learning algorithms for robotics.
 
-Below is a collection of works that summarize my academic interests.
+Below is a collection of works that embody my academic interests.
+
+Background
+======
+I am a U.S. citizen, raised and educated in Singapore 🇸🇬. Year by year, here’s what I explored, learned, and built: 
+- At various points: Led product strategy at startups - deep tech (quantum computing) based in SG, AI-powered hiring based in Asia + US.
+- 2021: Finding home at Stanford. Started robot learning research at IRIS.
+- Summer 2022: Developed low-code workflow automation tools at Salesforce in SF.
+- Fall 2022: Studied abroad at Magdalen College, Oxford. Studied graph representation learning and philosophy of mind. Tried my hand at rowing!
+- 2023: Led a project that became my honors thesis. Took more philosophy classes. Had fun enjoying a full Lake Lag and staffing a summer dorm.
+- 2024: Graduated BS SymSys! Continued robot learning research at IPRL.
+- 2025: More research and thesis writing. Deep dive into startup strategy and scaling technical ventures with Accel Leadership Program.
+- Now: Graduated MS CS! Preparing for the next chapter...
+
+In my downtime, I enjoy playing tennis, snowboarding, ashtanga yoga, science fiction, and brush calligraphy.
 
 <!-- {% for post in site.portfolio %}
   {% include archive-single.html %}
