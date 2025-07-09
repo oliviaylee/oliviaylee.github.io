@@ -15,11 +15,11 @@ Background
 ======
 I am a U.S. citizen, raised and educated in Singapore 🇸🇬. Year by year, here’s what I explored, learned, and built: 
 - At various points: Led product strategy at startups - deep tech (quantum computing) based in SG, AI-powered hiring based in Asia + US.
-- 2021: Finding home at Stanford. Started robot learning research at IRIS.
+- 2021: Finding home at Stanford. Started robot learning research at IRIS Lab.
 - Summer 2022: Developed low-code workflow automation tools at Salesforce in SF.
 - Fall 2022: Studied abroad at Magdalen College, Oxford. Studied graph representation learning and philosophy of mind. Tried my hand at rowing!
 - 2023: Led a project that became my honors thesis. Took more philosophy classes. Had fun enjoying a full Lake Lag and staffing a summer dorm.
-- 2024: Graduated BS SymSys! Continued robot learning research at IPRL.
+- 2024: Graduated BS SymSys! Continued robot learning research at IPRL Lab.
 - 2025: More research and thesis writing. Deep dive into startup strategy and scaling technical ventures with Accel Leadership Program.
 - Now: Graduated MS CS! Preparing for the next chapter...
 
