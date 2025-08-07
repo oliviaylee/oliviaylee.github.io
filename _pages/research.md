@@ -37,7 +37,7 @@ Conference Papers
     <a href="https://arxiv.org/abs/2504.12609" target="_blank">[paper]</a> 
     <a href="https://human2sim2robot.github.io" target="_blank">[site]</a> <br>
     <sup>Tyler Ga Wei Lum*, <b>Olivia Y. Lee</b>*, C. Karen Liu, Jeannette Bohg <br> 
-    <i>In review</i> <br>
+    <i>Conference on Robot Learning (CoRL) 2025</i> <br>
     <b>TL;DR: Our real-to-sim-to-real framework trains dexterous manipulation policies with RL in simulation from a single RGB-D human video demonstration, which we deploy zero-shot on a real robot.</b> <br>
     We present Human2Sim2Robot, a real-to-sim-to-real framework for training dexterous manipulation policies using only one RGB-D video of a human demonstrating a task. We leverage reinforcement learning (RL) in simulation to cross the human-robot embodiment gap without wearables, teleoperation, or large-scale data collection typically necessary for imitation learning methods. From the demonstration, we extract two task-specific components: (1) the object pose trajectory to define an object-centric, embodiment-agnostic reward function, and (2) the pre-manipulation hand pose to initialize and guide exploration during RL training. These eliminate the need for task-specific reward engineering. Human2Sim2Robot significantly outperforms baselines across a range of grasping, non-prehensile manipulation, and extrinsic manipulation tasks.</sup>
   </div>

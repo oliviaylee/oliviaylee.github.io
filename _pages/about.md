@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. As an undergraduate, I was also advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
+Hello! I am a researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. As an undergraduate, I was advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
 
 I recently graduated from Stanford with my M.S. with [Research Distinction](https://oliviaylee.github.io/files/Masters_Thesis.pdf){:target="_blank"} in Computer Science. Before that, I graduated with my B.S. with [Honors](https://purl.stanford.edu/jp127mt8218){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/){:target="_blank"} and minor in Mathematics. 
 

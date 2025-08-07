@@ -36,8 +36,7 @@ Thesis Papers
   <sub style="font-size:11px">*Topics: Robotics, Autonomous Reinforcement Learning, Vision-Language Models, Sim-to-Real Reinforcement Learning, Dexterous Manipulation, Learning from Human Demonstration*</sub>
 
 <span style="color:#52ADC8">**Leveraging Affordance Representations for Robot Learning**</span> [\[thesis\]](/files/Honors_Thesis.pdf){:target="_blank"} [\[publication\]](https://doi.org/10.25740/jp127mt8218){:target="_blank"} <br>
-  <sub> *Undergraduate Honors Thesis*
-  <!-- <br> Humans are capable of adapting to novel environments quickly using prior knowledge from past experiences. We can identify new instantiations of previously encountered object classes and easily apply previously learned skills to these new objects, both of which current embodied AI agents struggle with. Online reinforcement learning, where a robotic agent learns a mapping from states to actions to maximize a reward signal, provides a potential solution by enabling robots to learn from trial-and-error. However, current methods are sample-inefficient, lack shaping rewards, and require frequent resets. We propose a method to address the lack of shaping rewards using affordances, the action potential of objects, to create a dense shaping reward for online reinforcement learning. We leverage state-of-the-art vision-language models (VLMs) to predict keypoint-based affordance representations, which we use as intermediate dense rewards for online reinforcement learning, in addition to sparse task completion rewards. We demonstrate that dense shaping rewards speed up online reinforcement learning for robotic manipulation, and enables robots to succeed on a variety of object manipulation tasks, informed by human interaction priors encoded in VLMs.--> </sub> <br>
+  <sub> *Undergraduate Honors Thesis*</sub> <br>
   <sub style="font-size:11px">*Topics: Robotics, Online Reinforcement Learning, Vision-Language Models, Video Pre-training, Affordance Theory*</sub>
 
 Teaching
@@ -145,10 +144,3 @@ Technical Reports
   <sub>*Final paper for Stanford's CS 56N: Great Discoveries and Inventions in Computing, taught by Prof. John Hennessey (Fall 2020)*<br>
   We analyze current developments in autonomous driving, and discuss technological hurdles in secure, scalable implementation of autonomous systems.</sub> <br>
   <sub style="font-size:11px">*Topics: Autononous Driving, Computer Vision, LiDAR/RADAR Sensor Systems, AI Safety*</sub>
-
-<!-- <span style="color:#52ADC8">**When Worlds Collide: Challenges and Opportunities in Virtual Reality**</span> [\[paper\]](/files/2021-fall-history44q-paper.pdf){:target="_blank"} [\[publication\]](https://ojs.stanford.edu/ojs/index.php/sjfgss/article/view/2109){:target="_blank"} <br>
-  <sub>*Final paper for Stanford's HISTORY 44Q: Gendered Innovations in Science, Medicine, Engineering, and Environment (Fall 2021)<br>
-  Published in peer-reviewed journal, Embodied: The Stanford Undergraduate Journal of Feminist, Gender, and Sexuality Studies*<br>
-  I explore virtual reality (VR) software applications that contain discriminatory content and promote harassment behaviors, and explore innovation processes and design choices to reframe VR applications so that they promote gender and social equality. </sub> <br>
-  <sub style="font-size:11px">*Topics: Virtual Reality, Gendered Innovations*</sub>
-  <!-- I explore virtual reality (VR) software applications that contain discriminatory content and promote harassment behaviors towards historically underrepresented communities, and identify innovation processes to reframe VR applications so that they promote gender and social equality. I also explore design choices in VR hardware that tend to exclude females. To address this, I propose a better sex balance in research participants is needed to rethink reference models for VR hardware, leading to more sex-sensitive VR headsets. -->
