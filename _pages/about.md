@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a graduate researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. As an undergraduate, I was advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
+Hello! I am a graduate researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. I was also advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
 
 My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse data*, and *refine them through interaction* for performing complex real-world tasks. I'm especially interested in:
 1. **Representation learning from diverse data**: Extracting useful interaction priors from diverse human and robot data.

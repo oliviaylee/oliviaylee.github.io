@@ -9,7 +9,7 @@ author_profile: true
 
 Background
 ======
-I graduated from Stanford with my M.S. with [Research Distinction](https://oliviaylee.github.io/files/Masters_Thesis.pdf){:target="_blank"} in Computer Science. Before that, I graduated with my B.S. with [Honors](https://purl.stanford.edu/jp127mt8218){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/){:target="_blank"} and minor in Mathematics. 
+I graduated from Stanford with my M.S. with [Research Distinction](https://oliviaylee.github.io/files/Masters_Thesis.pdf){:target="_blank"} in Computer Science. Before that, I graduated with my B.S. with [Honors](https://purl.stanford.edu/jp127mt8218){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/){:target="_blank"} and minor in Math. 
 
 Inspired by my interdisciplinary coursework, I am drawn to research leveraging cognitive science for robot learning and visual understanding. I aim to better understand human cognitive processes, such as multimodal perception, curiosity, and interactive learning, to develop human-inspired learning algorithms for robotics.
 
