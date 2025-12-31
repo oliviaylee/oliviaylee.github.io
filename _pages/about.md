@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. As an undergraduate, I was advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
+Hello! I am a graduate researcher advised by [Jeannette Bohg](https://web.stanford.edu/~bohg/){:target="_blank"} at [IPRL Lab](https://iprl.stanford.edu/){:target="_blank"}, affiliated with the [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/){:target="_blank"}. As an undergraduate, I was advised by [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} at [IRIS Lab](https://irislab.stanford.edu/){:target="_blank"}.
 
-I recently graduated from Stanford with my M.S. with [Research Distinction](https://oliviaylee.github.io/files/Masters_Thesis.pdf){:target="_blank"} in Computer Science. Before that, I graduated with my B.S. with [Honors](https://purl.stanford.edu/jp127mt8218){:target="_blank"} in [Symbolic Systems](https://symsys.stanford.edu/){:target="_blank"} and minor in Mathematics. 
-
-My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse datasets*, and *refine them through interaction* for performing complex tasks in the real world. I'm especially interested in:
+My research interests span robotics, machine learning, and computer vision. I'm interested in enabling robots to *learn generalizable representations from diverse data*, and *refine them through interaction* for performing complex real-world tasks. I'm especially interested in:
 1. **Representation learning from diverse data**: Extracting useful interaction priors from diverse human and robot data.
 2. **Learning through interaction**: Enhancing precision, dexterity, and robustness via sample-efficient online interaction.
 3. **Robust manipulation and control**: Scaling dexterous manipulation to challenging dynamic settings.
 4. **Human-robot collaboration**: Enabling robots to autonomously complete tasks while adapting to human feedback on the fly.
 
-If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach me at oliviayl [at] stanford [dot] edu.
+If these topics also interest you, I would love to hear from you! Feel free to reach me at oliviayl [at] cs [dot] stanford [dot] edu.
 
 <!-- 10/21/2024
 1. **Learning from human data**: Enabling robots to leverage skill and object representations learned from human data for downstream tasks.

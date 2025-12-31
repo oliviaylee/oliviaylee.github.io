@@ -75,24 +75,11 @@ Conference Papers
     <a href="https://roboticsconference.org/2022/program/papers/009/" target="_blank">[publication]</a> <br>
     <sup>Maximilian Du*, <b>Olivia Y. Lee</b>*, Suraj Nair, and Chelsea Finn <br> 
     <i>Robotics Science and Systems (RSS), 2022 <a href="https://youtu.be/qI0zvRp-UnE?t=4034" target="_blank">[recording]</a></i> <br>
-    <b>TL;DR: We show that augmenting image input with audio and proprioception, as well as online human interventions, help imitation learning policies improve success on challenging partially-occluded tasks.</b> <br>
+    <b>TL;DR: We show that augmenting image input with audio and proprioception, as well as online human interventions, help imitation learning policies succeed on challenging partially-occluded tasks.</b> <br>
     We present a system that learns to complete partially-observed manipulation tasks by reasoning over vision, audio, and memory. We combine offline imitation learning from a modest number of tele-operated demonstrations and online finetuning with human interventions. In simulation, our system benefits from using audio and online interventions, which improve success rates of offline imitation learning by ~20%. On a Franka Emika Panda robot, our system completes manipulation tasks under occlusion with a 70% success rate, 50% higher than a policy that does not use audio.</sup>
   </div>
   
   <div style="width: 300px;">
     <img src="/images/playitbyear.png" alt="Play it by Ear" style="width: 100%;" />
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-  <div style="flex: 1; padding-right: 20px;">
-    <span style="color:#52ADC8"><b>An updated analysis of satellite quantum-key distribution missions</b></span> 
-    <a href="https://arxiv.org/abs/1909.13061" target="_blank">[paper]</a> <br>
-    <sup><b>Olivia Y. Lee</b>, Tom Vergoossen <br> 
-    We provide a meta-analysis of research and development efforts towards the realization of satellite quantum-key distribution (satellite-QKD). We analyze technical parameters of protocols and infrastructure for performing satellite-based QKD. Following a timeline of key milestones, we summarize globally completed and proposed quantum satellite missions, categorized by specific advancements thus far in satellite-QKD. We conclude by discussing the current technical in satellite-QKD and future research directions to address them.</sup>
-  </div>
-  
-  <div style="width: 290px;">
-    <img src="/images/satelliteqkd.png" alt="Satellite-QKD" style="width: 100%" />
   </div>
 </div>
